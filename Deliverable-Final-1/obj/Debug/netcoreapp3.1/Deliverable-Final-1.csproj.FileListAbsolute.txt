@@ -1,0 +1,12 @@
+/Users/blakebruseloff/Desktop/Deliverable-Final-1/Deliverable-Final-1/bin/Debug/netcoreapp3.1/Deliverable-Final-1.deps.json
+/Users/blakebruseloff/Desktop/Deliverable-Final-1/Deliverable-Final-1/bin/Debug/netcoreapp3.1/Deliverable-Final-1.runtimeconfig.json
+/Users/blakebruseloff/Desktop/Deliverable-Final-1/Deliverable-Final-1/bin/Debug/netcoreapp3.1/Deliverable-Final-1.runtimeconfig.dev.json
+/Users/blakebruseloff/Desktop/Deliverable-Final-1/Deliverable-Final-1/bin/Debug/netcoreapp3.1/Deliverable-Final-1.dll
+/Users/blakebruseloff/Desktop/Deliverable-Final-1/Deliverable-Final-1/bin/Debug/netcoreapp3.1/Deliverable-Final-1.pdb
+/Users/blakebruseloff/Desktop/Deliverable-Final-1/Deliverable-Final-1/obj/Debug/netcoreapp3.1/Deliverable-Final-1.csprojAssemblyReference.cache
+/Users/blakebruseloff/Desktop/Deliverable-Final-1/Deliverable-Final-1/obj/Debug/netcoreapp3.1/Deliverable-Final-1.AssemblyInfoInputs.cache
+/Users/blakebruseloff/Desktop/Deliverable-Final-1/Deliverable-Final-1/obj/Debug/netcoreapp3.1/Deliverable-Final-1.AssemblyInfo.cs
+/Users/blakebruseloff/Desktop/Deliverable-Final-1/Deliverable-Final-1/obj/Debug/netcoreapp3.1/Deliverable-Final-1.csproj.CoreCompileInputs.cache
+/Users/blakebruseloff/Desktop/Deliverable-Final-1/Deliverable-Final-1/obj/Debug/netcoreapp3.1/Deliverable-Final-1.dll
+/Users/blakebruseloff/Desktop/Deliverable-Final-1/Deliverable-Final-1/obj/Debug/netcoreapp3.1/Deliverable-Final-1.pdb
+/Users/blakebruseloff/Desktop/Deliverable-Final-1/Deliverable-Final-1/obj/Debug/netcoreapp3.1/Deliverable-Final-1.genruntimeconfig.cache
